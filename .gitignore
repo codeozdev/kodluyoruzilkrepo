@@ -5,6 +5,7 @@
 # img
 *.jpg
 *.png
+*.jpeg
 img/
 
 # videos
